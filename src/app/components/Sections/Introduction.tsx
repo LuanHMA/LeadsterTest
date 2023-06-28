@@ -1,3 +1,4 @@
+import { Line } from "../Line";
 import { Section } from "../Section";
 
 export function Introduction() {
@@ -18,7 +19,7 @@ export function Introduction() {
           </span>
         </h2>
 
-        <div className="h-[1px] w-full bg-zinc-300"></div>
+        <Line />
 
         <p className="text-sm font-medium text-default-color sm:text-md">
           Conheça as estratégias que <b>mudaram o jogo</b> e como aplicá-las no
