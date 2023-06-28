@@ -31,13 +31,15 @@ export function DemoArea() {
           <div className="flex items-center gap-x-4 flex-wrap gap-y-2">
             <a
               href="#"
-              className="text-md uppercase text-white font-bold bg-blue-button border-2 border-blue-border py-4 px-7 rounded-3xl transition-all hover:bg-blue-light hover:text-blue"
+              className="text-md uppercase text-white font-bold bg-blue-button border border-blue-border py-4 px-8 rounded-3xl transition-all duration-500 hover:bg-blue-light hover:text-blue"
             >
               VER DEMONSTRAÇÃO
             </a>
             <Image
               src={SeloRD}
               alt="Selo - Top 10 Apps mais usados RD Station"
+              width={150}
+              height={53}
             />
           </div>
 
