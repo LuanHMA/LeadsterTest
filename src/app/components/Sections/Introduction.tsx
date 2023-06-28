@@ -1,5 +1,7 @@
 import { Line } from "../Line";
 import { Section } from "../Section";
+import Image from "next/image";
+import TitleImage from "../../assets/h1-image.webp";
 
 export function Introduction() {
   return (
@@ -14,7 +16,14 @@ export function Introduction() {
             Menos Conversinha,
           </span>
           <br />
-          <span className="text-blue font-bold text-4xl tracking-wide sm:text-7xl">
+          <span className="text-blue font-bold text-4xl tracking-wide sm:text-7xl relative">
+            <Image
+              src={TitleImage}
+              alt="Detalhe do título"
+              width={49}
+              height={32}
+              className="absolute -right-6 top-0"
+            />
             Mais Conversão
           </span>
         </h2>
