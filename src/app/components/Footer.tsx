@@ -34,7 +34,8 @@ export function Footer() {
       className={`w-full flex flex-col justify-center items-center px-4 py-10
      bg-white sm:px-14 sm:py-14`}
     >
-      <div className="w-full max-w-6xl space-y-12">
+      <div className="w-full max-w-7xl space-y-12">
+        {/* Logo */}
         <div className="flex flex-col items-center">
           <Image src={LogoGif} alt="Leadster Logo" />
           <span className="text-sm text-slate-400 font-base mt-1">
@@ -42,6 +43,7 @@ export function Footer() {
           </span>
         </div>
 
+        {/* Links */}
         <div className="flex flex-col justify-between gap-14 flex-wrap sm:flex-row">
           {footerLinks.map(({ links, title }) => {
             return (

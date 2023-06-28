@@ -1,7 +1,7 @@
 import { Footer } from "./components/Footer";
 import { Header } from "./components/Header";
 import { DemoArea } from "./components/Sections/DemoArea";
-import { FilterVideos } from "./components/Sections/FilterVideos";
+import { FilterVideos } from "./components/Sections/FilterVideo";
 import { Introduction } from "./components/Sections/Introduction";
 
 export default function Home() {
@@ -13,8 +13,8 @@ export default function Home() {
         <Introduction />
         <FilterVideos />
         <DemoArea />
-        <Footer />
       </main>
+      <Footer />
     </div>
   );
 }

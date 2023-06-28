@@ -31,7 +31,7 @@ export function DemoArea() {
           <div className="flex items-center gap-x-4 flex-wrap gap-y-2">
             <a
               href="#"
-              className="text-md uppercase text-white font-bold bg-blue-button border border-blue-border py-4 px-8 rounded-3xl transition-all duration-500 hover:bg-blue-light hover:text-blue"
+              className="text-sm uppercase text-white font-bold bg-blue-button border border-blue-border py-4 px-8 rounded-3xl transition-all duration-500 hover:bg-blue-light hover:text-blue sm:text-md"
             >
               VER DEMONSTRAÇÃO
             </a>
