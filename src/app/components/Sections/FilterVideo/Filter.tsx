@@ -17,7 +17,7 @@ export function Filter() {
 
   return (
     <Tab.Group>
-      <Tab.List className="flex items-center justify-between flex-wrap gap-3 w-full px-10">
+      <Tab.List className="flex items-center justify-between flex-wrap gap-3 w-full ">
         <div className="flex items-center gap-3 flex-wrap">
           {category.map((title, index) => {
             return (

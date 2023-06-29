@@ -4,13 +4,13 @@ import { useState } from "react";
 import data from "../../../data/videos.json";
 import { VideoCard } from "./VideoCard";
 import { Pagination } from "./Pagination";
+import { Line } from "../../Line";
 
 interface VideoAreaProps {
   selectedCategory: number;
 }
 
 export function VideoArea({ selectedCategory }: VideoAreaProps) {
-  const [videosPerPage, setVideosPerPage] = useState(9);
   const [currentPage, setCurrentPage] = useState(0);
 
   const { videos } = data;
@@ -19,14 +19,15 @@ export function VideoArea({ selectedCategory }: VideoAreaProps) {
     return video.type === selectedCategory;
   });
 
-  const pages = filteredVideos.length / videosPerPage;
-  const startIndex = currentPage * videosPerPage;
-  const endIndex = startIndex + videosPerPage;
+  const maxVideosPerPage = 9;
+  const pages = filteredVideos.length / maxVideosPerPage;
+  const startIndex = currentPage * maxVideosPerPage;
+  const endIndex = startIndex + maxVideosPerPage;
   const currentVideos = filteredVideos.slice(startIndex, endIndex);
 
   return (
-    <div>
-      <div className="grid grid-cols-1 gap-6 mt-4 sm:grid-cols-3">
+    <>
+      <div className="grid grid-cols-1 gap-8 mt-4 sm:grid-cols-2 md:grid-cols-3 w-full pb-12">
         {currentVideos.map((data, index) => {
           if (selectedCategory === data.type) {
             return (
@@ -40,7 +41,9 @@ export function VideoArea({ selectedCategory }: VideoAreaProps) {
         })}
       </div>
 
+      <Line space />
+
       <Pagination pageNumber={pages} setCurrentPage={setCurrentPage} />
-    </div>
+    </>
   );
 }
