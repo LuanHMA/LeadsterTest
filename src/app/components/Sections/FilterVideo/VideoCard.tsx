@@ -4,7 +4,7 @@ import Thumbnail from "../../../assets/thumbnail.png";
 
 export function VideoCard({ title, videoDescription }: IDataVideo) {
   return (
-    <div className="flex flex-col shadow-lg rounded-xl overflow-hidden max-w-md">
+    <div className="flex flex-col shadow-lg rounded-xl overflow-hidden max-w-sm">
       <Image
         src={Thumbnail}
         alt={`Thumbnail do video sobre ${title}`}

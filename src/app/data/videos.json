@@ -1,238 +1,330 @@
 {
   "videos": [
     {
+      "type": 0,
       "category": "agencia",
       "title": "Como melhorar sua Agência",
 
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
+      "type": 0,
       "category": "agencia",
       "title": "Como melhorar sua Agência",
 
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "agencia",
+      "type": 0,
       "title": "Como melhorar sua Agência",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
-
-    },
-     {
-      "category": "agencia",
-      "title": "Como melhorar sua Agência",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
-
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "agencia",
+      "type": 0,
       "title": "Como melhorar sua Agência",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
-
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "agencia",
+      "type": 0,
       "title": "Como melhorar sua Agência",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
-
-    },
-     {
-      "category": "agencia",
-      "title": "Como melhorar sua Agência",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
-
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "agencia",
+      "type": 0,
       "title": "Como melhorar sua Agência",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
-
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "agencia",
+      "type": 0,
       "title": "Como melhorar sua Agência",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
-
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "agencia",
+      "type": 0,
+      "title": "Como melhorar sua Agência",
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "agencia",
+      "type": 0,
+      "title": "Como melhorar sua Agência",
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "chatbot",
+      "type": 1,
       "title": "Como usar chatbot na sua empresa",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "chatbot",
+      "type": 1,
       "title": "Como usar chatbot na sua empresa",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "chatbot",
+      "type": 1,
       "title": "Como usar chatbot na sua empresa",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
-    },
-     {
-      "category": "chatbot",
-      "title": "Como usar chatbot na sua empresa",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "chatbot",
+      "type": 1,
       "title": "Como usar chatbot na sua empresa",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "chatbot",
+      "type": 1,
       "title": "Como usar chatbot na sua empresa",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
-    },
-     {
-      "category": "chatbot",
-      "title": "Como usar chatbot na sua empresa",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "chatbot",
+      "type": 1,
       "title": "Como usar chatbot na sua empresa",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "chatbot",
+      "type": 1,
       "title": "Como usar chatbot na sua empresa",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "chatbot",
+      "type": 1,
+      "title": "Como usar chatbot na sua empresa",
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "chatbot",
+      "type": 1,
+      "title": "Como usar chatbot na sua empresa",
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "marketing",
+      "type": 2,
       "title": "Como melhorar o seu marketing",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
-     {
+    {
       "category": "marketing",
+      "type": 2,
       "title": "Como melhorar o seu marketing",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
-     {
+    {
       "category": "marketing",
+      "type": 2,
       "title": "Como melhorar o seu marketing",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
-     {
+    {
       "category": "marketing",
+      "type": 2,
       "title": "Como melhorar o seu marketing",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
-     {
+    {
       "category": "marketing",
+      "type": 2,
       "title": "Como melhorar o seu marketing",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
-     {
+    {
       "category": "marketing",
+      "type": 2,
       "title": "Como melhorar o seu marketing",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
-     {
+    {
       "category": "marketing",
+      "type": 2,
       "title": "Como melhorar o seu marketing",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
-     {
+    {
       "category": "marketing",
+      "type": 2,
       "title": "Como melhorar o seu marketing",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
-     {
+    {
       "category": "marketing",
+      "type": 2,
       "title": "Como melhorar o seu marketing",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "geracaoDeLeads",
+      "type": 3,
       "title": "Como melhorar sua geração de Leads feat.Traktor ",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "geracaoDeLeads",
+      "type": 3,
       "title": "Como melhorar sua geração de Leads feat.Traktor ",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "geracaoDeLeads",
+      "type": 3,
       "title": "Como melhorar sua geração de Leads feat.Traktor ",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "geracaoDeLeads",
+      "type": 3,
       "title": "Como melhorar sua geração de Leads feat.Traktor ",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "geracaoDeLeads",
+      "type": 3,
       "title": "Como melhorar sua geração de Leads feat.Traktor ",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "geracaoDeLeads",
+      "type": 3,
       "title": "Como melhorar sua geração de Leads feat.Traktor ",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "geracaoDeLeads",
+      "type": 3,
       "title": "Como melhorar sua geração de Leads feat.Traktor ",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "geracaoDeLeads",
+      "type": 3,
       "title": "Como melhorar sua geração de Leads feat.Traktor ",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "geracaoDeLeads",
+      "type": 3,
       "title": "Como melhorar sua geração de Leads feat.Traktor ",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "midiaPaga",
+      "type": 4,
       "title": "Como usar midia paga",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "midiaPaga",
+      "type": 4,
       "title": "Como usar midia paga",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "midiaPaga",
+      "type": 4,
       "title": "Como usar midia paga",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
-    },
-     {
-      "category": "midiaPaga",
-      "title": "Como usar midia paga",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "midiaPaga",
+      "type": 4,
       "title": "Como usar midia paga",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "midiaPaga",
+      "type": 4,
       "title": "Como usar midia paga",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
-    },
-     {
-      "category": "midiaPaga",
-      "title": "Como usar midia paga",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "midiaPaga",
+      "type": 4,
       "title": "Como usar midia paga",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
       "category": "midiaPaga",
+      "type": 4,
       "title": "Como usar midia paga",
-      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "midiaPaga",
+      "type": 4,
+      "title": "Como usar midia paga",
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "midiaPaga",
+      "type": 4,
+      "title": "Como usar midia paga",
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "midiaPaga",
+      "type": 4,
+      "title": "Como usar midia paga",
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "midiaPaga",
+      "type": 4,
+      "title": "Como usar midia paga",
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "midiaPaga",
+      "type": 4,
+      "title": "Como usar midia paga",
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "midiaPaga",
+      "type": 4,
+      "title": "Como usar midia paga",
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "midiaPaga",
+      "type": 4,
+      "title": "Como usar midia paga",
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "midiaPaga",
+      "type": 4,
+      "title": "Como usar midia paga",
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "midiaPaga",
+      "type": 4,
+      "title": "Como usar midia paga",
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "midiaPaga",
+      "type": 4,
+      "title": "Como usar midia paga",
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "midiaPaga",
+      "type": 4,
+      "title": "Como usar midia paga",
+      "videoDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     }
   ]
 }
