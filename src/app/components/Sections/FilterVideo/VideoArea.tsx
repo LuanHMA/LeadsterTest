@@ -1,23 +1,24 @@
-import Image from "next/image";
 import data from "../../../data/videos.json";
+import { VideoCard } from "./VideoCard";
 
 interface VideoAreaProps {
-  selectedContent: number;
+  selectedCategory:
+    | "agencia"
+    | "chatbot"
+    | "marketing"
+    | "geracaoDeLeads"
+    | "midiaPaga";
 }
 
-export function VideoArea({ selectedContent }: VideoAreaProps) {
+export function VideoArea({ selectedCategory }: VideoAreaProps) {
   const { videos } = data;
 
   return (
-    <div>
-      <h1>Video area</h1>
-      {videos.map(({ id, thumbnail, title }) => {
-        if (selectedContent === id) {
+    <div className="grid grid-cols-1 gap-6 mt-4 sm:grid-cols-3">
+      {videos.map(({ title, videoDescription, category }) => {
+        if (selectedCategory === category) {
           return (
-            <div>
-              <Image src={thumbnail} alt="test" width={40} height={40} />
-              {title}
-            </div>
+            <VideoCard title={title} videoDescription={videoDescription} />
           );
         }
       })}

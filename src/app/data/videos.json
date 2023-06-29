@@ -1,229 +1,238 @@
 {
   "videos": [
     {
-      "id": 0,
+      "category": "agencia",
       "title": "Como melhorar sua Agência",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
-      "id": 0,
+      "category": "agencia",
       "title": "Como melhorar sua Agência",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
-      "id": 0,
+      "category": "agencia",
       "title": "Como melhorar sua Agência",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 0,
-      "title": "Como melhorar sua Agência",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 0,
-      "title": "Como melhorar sua Agência",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 0,
-      "title": "Como melhorar sua Agência",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 0,
-      "title": "Como melhorar sua Agência",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 0,
-      "title": "Como melhorar sua Agência",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 0,
-      "title": "Como melhorar sua Agência",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 1,
-      "title": "Como utilizar chatbot na sua empresa",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 1,
-      "title": "Como utilizar chatbot na sua empresa",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 1,
-      "title": "Como utilizar chatbot na sua empresa",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 1,
-      "title": "Como utilizar chatbot na sua empresa",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 1,
-      "title": "Como utilizar chatbot na sua empresa",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 1,
-      "title": "Como utilizar chatbot na sua empresa",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 1,
-      "title": "Como utilizar chatbot na sua empresa",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 1,
-      "title": "Como utilizar chatbot na sua empresa",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 1,
-      "title": "Como utilizar chatbot na sua empresa",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 2,
-      "title": "Como melhorar o seu marketing",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 2,
-      "title": "Como melhorar o seu marketing",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 2,
-      "title": "Como melhorar o seu marketing",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 2,
-      "title": "Como melhorar o seu marketing",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 2,
-      "title": "Como melhorar o seu marketing",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 2,
-      "title": "Como melhorar o seu marketing",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 2,
-      "title": "Como melhorar o seu marketing",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 2,
-      "title": "Como melhorar o seu marketing",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 2,
-      "title": "Como melhorar o seu marketing",
-      "thumbnail": "/src/app/assets/thumbnail.png"
-    },
-    {
-      "id": 3,
-      "title": "Como aumentar sua geração de Leads feat.Traktor",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+
     },
      {
-      "id": 3,
-      "title": "Como aumentar sua geração de Leads feat.Traktor",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+      "category": "agencia",
+      "title": "Como melhorar sua Agência",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+
+    },
+    {
+      "category": "agencia",
+      "title": "Como melhorar sua Agência",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+
+    },
+    {
+      "category": "agencia",
+      "title": "Como melhorar sua Agência",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+
     },
      {
-      "id": 3,
-      "title": "Como aumentar sua geração de Leads feat.Traktor",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+      "category": "agencia",
+      "title": "Como melhorar sua Agência",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+
+    },
+    {
+      "category": "agencia",
+      "title": "Como melhorar sua Agência",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+
+    },
+    {
+      "category": "agencia",
+      "title": "Como melhorar sua Agência",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+
+    },
+    {
+      "category": "chatbot",
+      "title": "Como usar chatbot na sua empresa",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "chatbot",
+      "title": "Como usar chatbot na sua empresa",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "chatbot",
+      "title": "Como usar chatbot na sua empresa",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
      {
-      "id": 3,
-      "title": "Como aumentar sua geração de Leads feat.Traktor",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+      "category": "chatbot",
+      "title": "Como usar chatbot na sua empresa",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "chatbot",
+      "title": "Como usar chatbot na sua empresa",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "chatbot",
+      "title": "Como usar chatbot na sua empresa",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
      {
-      "id": 3,
-      "title": "Como aumentar sua geração de Leads feat.Traktor",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+      "category": "chatbot",
+      "title": "Como usar chatbot na sua empresa",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "chatbot",
+      "title": "Como usar chatbot na sua empresa",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "chatbot",
+      "title": "Como usar chatbot na sua empresa",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "marketing",
+      "title": "Como melhorar o seu marketing",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
      {
-      "id": 3,
-      "title": "Como aumentar sua geração de Leads feat.Traktor",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+      "category": "marketing",
+      "title": "Como melhorar o seu marketing",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
      {
-      "id": 3,
-      "title": "Como aumentar sua geração de Leads feat.Traktor",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+      "category": "marketing",
+      "title": "Como melhorar o seu marketing",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
      {
-      "id": 3,
-      "title": "Como aumentar sua geração de Leads feat.Traktor",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+      "category": "marketing",
+      "title": "Como melhorar o seu marketing",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
      {
-      "id": 3,
-      "title": "Como aumentar sua geração de Leads feat.Traktor",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+      "category": "marketing",
+      "title": "Como melhorar o seu marketing",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+     {
+      "category": "marketing",
+      "title": "Como melhorar o seu marketing",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+     {
+      "category": "marketing",
+      "title": "Como melhorar o seu marketing",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+     {
+      "category": "marketing",
+      "title": "Como melhorar o seu marketing",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+     {
+      "category": "marketing",
+      "title": "Como melhorar o seu marketing",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
-      "id": 4,
-      "title": "Como funciona a Mídia Paga",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+      "category": "geracaoDeLeads",
+      "title": "Como melhorar sua geração de Leads feat.Traktor ",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
-      "id": 4,
-      "title": "Como funciona a Mídia Paga",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+      "category": "geracaoDeLeads",
+      "title": "Como melhorar sua geração de Leads feat.Traktor ",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
-      "id": 4,
-      "title": "Como funciona a Mídia Paga",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+      "category": "geracaoDeLeads",
+      "title": "Como melhorar sua geração de Leads feat.Traktor ",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
-      "id": 4,
-      "title": "Como funciona a Mídia Paga",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+      "category": "geracaoDeLeads",
+      "title": "Como melhorar sua geração de Leads feat.Traktor ",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
-      "id": 4,
-      "title": "Como funciona a Mídia Paga",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+      "category": "geracaoDeLeads",
+      "title": "Como melhorar sua geração de Leads feat.Traktor ",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
-      "id": 4,
-      "title": "Como funciona a Mídia Paga",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+      "category": "geracaoDeLeads",
+      "title": "Como melhorar sua geração de Leads feat.Traktor ",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
-      "id": 4,
-      "title": "Como funciona a Mídia Paga",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+      "category": "geracaoDeLeads",
+      "title": "Como melhorar sua geração de Leads feat.Traktor ",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
-      "id": 4,
-      "title": "Como funciona a Mídia Paga",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+      "category": "geracaoDeLeads",
+      "title": "Como melhorar sua geração de Leads feat.Traktor ",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     },
     {
-      "id": 4,
-      "title": "Como funciona a Mídia Paga",
-      "thumbnail": "/src/app/assets/thumbnail.png"
+      "category": "geracaoDeLeads",
+      "title": "Como melhorar sua geração de Leads feat.Traktor ",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "midiaPaga",
+      "title": "Como usar midia paga",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "midiaPaga",
+      "title": "Como usar midia paga",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "midiaPaga",
+      "title": "Como usar midia paga",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+     {
+      "category": "midiaPaga",
+      "title": "Como usar midia paga",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "midiaPaga",
+      "title": "Como usar midia paga",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "midiaPaga",
+      "title": "Como usar midia paga",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+     {
+      "category": "midiaPaga",
+      "title": "Como usar midia paga",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "midiaPaga",
+      "title": "Como usar midia paga",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
+    },
+    {
+      "category": "midiaPaga",
+      "title": "Como usar midia paga",
+      "videoDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. A saepe necessitatibus deserunt architecto. Consequatur deleniti vel illo, ea fugiat nisi debitis aspernatur odit voluptatum, distinctio sint similique dolor sed sequi."
     }
   ]
 }

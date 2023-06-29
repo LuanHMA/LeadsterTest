@@ -2,44 +2,62 @@
 
 import { Tab } from "@headlessui/react";
 import { useState } from "react";
+import { Line } from "../../Line";
 import { VideoArea } from "./VideoArea";
-
-const textButton = [
-  { title: "Agências", id: 0 },
-  { title: "Chatbot", id: 1 },
-  { title: "Marketing Digital", id: 2 },
-  { title: "Geração de Leads", id: 3 },
-  { title: "Mída paga", id: 4 },
-];
 
 export function Filter() {
   const [selected, setSelected] = useState(0);
 
   return (
     <Tab.Group>
-      <Tab.List>
-        <Tab>Agências</Tab>
-        <Tab>Chatbot</Tab>
-        <Tab>Marketing Digital</Tab>
-        <Tab>Geração de Leads</Tab>
-        <Tab>Mídia Paga</Tab>
+      <Tab.List className="flex items-center justify-between flex-wrap gap-3 w-full">
+        <div className="flex items-center gap-3 flex-wrap">
+          <Tab className="text-sm text-default-color font-semibold py-2 px-6 rounded-3xl border border-default-color hover:border-blue-border hover:text-blue-border">
+            Agências
+          </Tab>
+          <Tab className="text-sm text-default-color font-semibold py-2 px-6 rounded-3xl border border-default-color hover:border-blue-border hover:text-blue-border">
+            Chatbot
+          </Tab>
+          <Tab className="text-sm text-default-color font-semibold py-2 px-6 rounded-3xl border border-default-color hover:border-blue-border hover:text-blue-border">
+            Marketing Digital
+          </Tab>
+          <Tab className="text-sm text-default-color font-semibold py-2 px-6 rounded-3xl border border-default-color hover:border-blue-border hover:text-blue-border">
+            Geração de Leads
+          </Tab>
+          <Tab className="text-sm text-default-color font-semibold py-2 px-6 rounded-3xl border border-default-color hover:border-blue-border hover:text-blue-border">
+            Mídia Paga
+          </Tab>
+        </div>
+
+        <div className="flex items-center gap-x-2">
+          <span className="text-sm font-semibold text-default-color">
+            Ordenar por
+          </span>
+          <select className="text-sm text-default-color font-medium border border-default-color  rounded-xl p-2 bg-transparent">
+            <option>Data de Publicação</option>
+            <option>Ordem alfabética A-Z</option>
+            <option>Mais recente</option>
+          </select>
+        </div>
       </Tab.List>
+
+      <Line space />
 
       <Tab.Panels>
         <Tab.Panel>
-          <VideoArea selectedContent={0} />
+          <VideoArea selectedCategory="agencia" />
         </Tab.Panel>
         <Tab.Panel>
-          <VideoArea selectedContent={1} />
+          <VideoArea selectedCategory="chatbot" />
         </Tab.Panel>
         <Tab.Panel>
-          <VideoArea selectedContent={2} />
+          <VideoArea selectedCategory="marketing" />
         </Tab.Panel>
         <Tab.Panel>
-          <VideoArea selectedContent={3} />
+          <VideoArea selectedCategory="geracaoDeLeads" />
         </Tab.Panel>
         <Tab.Panel>
-          <VideoArea selectedContent={4} />
+          <VideoArea selectedCategory="midiaPaga" />
         </Tab.Panel>
       </Tab.Panels>
     </Tab.Group>
