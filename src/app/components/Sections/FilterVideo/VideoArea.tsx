@@ -3,37 +3,44 @@
 import { useState } from "react";
 import data from "../../../data/videos.json";
 import { VideoCard } from "./VideoCard";
+import { Pagination } from "./Pagination";
 
 interface VideoAreaProps {
   selectedCategory: number;
-  // selectedCategory:
-  //   | "agencia"
-  //   | "chatbot"
-  //   | "marketing"
-  //   | "geracaoDeLeads"
-  //   | "midiaPaga";
 }
 
 export function VideoArea({ selectedCategory }: VideoAreaProps) {
-  const { videos } = data;
-  const [videosPerPage, setVidesPerPage] = useState(9);
-  const [currentPage, setCurrentPage] = useState(selectedCategory);
+  const [videosPerPage, setVideosPerPage] = useState(9);
+  const [currentPage, setCurrentPage] = useState(0);
 
-  const pages = videos.length / videosPerPage;
+  const { videos } = data;
+
+  const filteredVideos = videos.filter((video) => {
+    return video.type === selectedCategory;
+  });
+
+  const pages = filteredVideos.length / videosPerPage;
   const startIndex = currentPage * videosPerPage;
   const endIndex = startIndex + videosPerPage;
-  const currentVideos = videos.slice(startIndex, endIndex);
-  console.log(currentVideos);
+  const currentVideos = filteredVideos.slice(startIndex, endIndex);
 
   return (
-    <div className="grid grid-cols-1 gap-6 mt-4 sm:grid-cols-3">
-      {currentVideos.map(({ title, videoDescription, category, type }) => {
-        if (selectedCategory === type) {
-          return (
-            <VideoCard title={title} videoDescription={videoDescription} />
-          );
-        }
-      })}
+    <div>
+      <div className="grid grid-cols-1 gap-6 mt-4 sm:grid-cols-3">
+        {currentVideos.map((data, index) => {
+          if (selectedCategory === data.type) {
+            return (
+              <VideoCard
+                id={index}
+                title={data.title}
+                videoDescription={data.videoDescription}
+              />
+            );
+          }
+        })}
+      </div>
+
+      <Pagination pageNumber={pages} setCurrentPage={setCurrentPage} />
     </div>
   );
 }
