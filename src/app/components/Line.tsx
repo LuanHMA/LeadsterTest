@@ -4,6 +4,9 @@ interface LineProps {
 
 export function Line({ space }: LineProps) {
   return (
-    <div className={`h-[1px] w-full bg-zinc-200 ${space && "my-4"}`}></div>
+    <div
+      className={`h-[1px] w-full bg-zinc-200 ${space && "my-4"}`}
+      data-aos="fade-down"
+    ></div>
   );
 }
