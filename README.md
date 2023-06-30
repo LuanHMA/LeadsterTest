@@ -2,9 +2,11 @@
 
 <p>Olá, essa é a landing page que desenvolvi para a vaga de Desenvolvedor Front end da empresa Leadster!.</p>
 
-<img alt="Preview da Landing Page" title="Leadster Landing Page" src="./src/app/assets/preview.png" />
-
 <p>Caso queira dar uma olhadinha no resultado final, <a href="https://luanhma-leadster-test.vercel.app/" target="_blank_">Clique aqui</a>
+
+<h1 align="center"> 
+   <img alt="Preview da Landing Page" title="Leadster Landing Page" src="./src/app/assets/preview.png" height="800"/>
+</h1>
 
 ## Requisitos para instalação
 
