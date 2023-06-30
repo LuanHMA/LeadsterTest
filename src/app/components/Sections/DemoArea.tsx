@@ -28,7 +28,7 @@ export function DemoArea() {
             Pronto para triplicar sua <br /> <b>Geração de Leads?</b>
           </h2>
           <h3 className="text-default-color font-medium text-xl">
-            Criação é ativação em <b>4 minutos.</b>
+            Criação e ativação em <b>4 minutos.</b>
           </h3>
           <Line />
 
