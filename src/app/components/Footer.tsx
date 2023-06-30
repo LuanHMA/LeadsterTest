@@ -1,7 +1,7 @@
 import Image from "next/image";
 import LogoGif from "../assets/footer-gif.gif";
-import { Facebook, Instagram, Linkedin } from "lucide-react";
 import { Line } from "./Line";
+import { FaFacebookF, FaInstagram, FaLinkedinIn } from "react-icons/fa";
 
 const footerLinks = [
   {
@@ -79,19 +79,28 @@ export function Footer() {
                 href="#"
                 className="rounded-full bg-neutral-200 p-3 hover:bg-blue group transition-all hover:scale-125"
               >
-                <Linkedin size={18} className="group-hover:text-white " />
+                <FaLinkedinIn
+                  size={16}
+                  className="text-[#92a1ab] group-hover:text-white"
+                />
               </a>
               <a
                 href="#"
                 className="rounded-full bg-neutral-200 p-3 hover:bg-blue group transition-all hover:scale-125"
               >
-                <Facebook size={18} className="group-hover:text-white " />
+                <FaFacebookF
+                  size={16}
+                  className="text-[#92a1ab] group-hover:text-white"
+                />
               </a>
               <a
                 href="#"
                 className="rounded-full bg-neutral-200 p-3 hover:bg-blue group transition-all hover:scale-125"
               >
-                <Instagram size={18} className="group-hover:text-white " />
+                <FaInstagram
+                  size={16}
+                  className="text-[#92a1ab] group-hover:text-white"
+                />
               </a>
             </div>
 

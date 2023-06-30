@@ -15,6 +15,7 @@ export function VideoArea({ selectedCategory }: VideoAreaProps) {
 
   const { videos } = data;
 
+  //Pegando os videos da categoria selecionada
   const filteredVideos = videos.filter((video) => {
     return video.type === selectedCategory;
   });
@@ -27,7 +28,7 @@ export function VideoArea({ selectedCategory }: VideoAreaProps) {
 
   return (
     <>
-      <div className="grid grid-cols-1 gap-8 mt-4 sm:grid-cols-2 md:grid-cols-3 w-full pb-12">
+      <div className="grid grid-cols-1 gap-8 w-full mt-4 pb-12 sm:grid-cols-2 lg:grid-cols-3">
         {currentVideos.map((data, index) => {
           if (selectedCategory === data.type) {
             return (
@@ -43,7 +44,11 @@ export function VideoArea({ selectedCategory }: VideoAreaProps) {
 
       <Line space />
 
-      <Pagination pageNumber={pages} setCurrentPage={setCurrentPage} />
+      <Pagination
+        pageNumber={pages}
+        setCurrentPage={setCurrentPage}
+        currentPage={currentPage}
+      />
     </>
   );
 }
