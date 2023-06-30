@@ -3,7 +3,7 @@
 import { Tab } from "@headlessui/react";
 import { Fragment, useState } from "react";
 import { Line } from "../../Line";
-import { VideoArea } from "./VideoArea";
+import { VideoArea } from "./video/VideoArea";
 
 export function Filter() {
   const [selected, setSelected] = useState(true);

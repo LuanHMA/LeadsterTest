@@ -20,9 +20,9 @@ export function Introduction() {
             <Image
               src={TitleImage}
               alt="Detalhe do título"
-              width={49}
+              width={30}
               height={32}
-              className="absolute -right-6 top-0"
+              className="absolute -right-3 top-0 sm:w-[46px]"
             />
             Mais Conversão
           </span>

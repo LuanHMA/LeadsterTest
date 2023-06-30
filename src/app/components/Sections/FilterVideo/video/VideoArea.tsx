@@ -1,10 +1,10 @@
 "use client";
 
 import { useState } from "react";
-import data from "../../../data/videos.json";
+import data from "../../../../data/videos.json";
 import { VideoCard } from "./VideoCard";
-import { Pagination } from "./Pagination";
-import { Line } from "../../Line";
+import { Pagination } from "../Pagination";
+import { Line } from "../../../Line";
 
 interface VideoAreaProps {
   selectedCategory: number;
