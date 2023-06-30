@@ -21,6 +21,8 @@ export function VideoCard({ title, videoDescription, id }: IDataVideo) {
     <div
       className="flex flex-col shadow-lg rounded-xl overflow-hidden max-w-md cursor-pointer group"
       onClick={openVideoModal}
+      data-aos="zoom-in"
+      data-aos-delay="300"
     >
       <div className="relative">
         <Image

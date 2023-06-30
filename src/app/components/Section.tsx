@@ -1,4 +1,8 @@
+"use client";
 import { ReactNode } from "react";
+import { useEffect } from "react";
+import { init } from "aos";
+import "aos/dist/aos.css";
 
 interface SectionProps {
   children: ReactNode;
@@ -6,6 +10,10 @@ interface SectionProps {
 }
 
 export function Section({ children, backgroundColor }: SectionProps) {
+  useEffect(() => {
+    init();
+  });
+
   return (
     <section
       className={`w-full flex justify-center items-center px-4 py-20 ${

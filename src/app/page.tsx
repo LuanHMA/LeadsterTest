@@ -6,7 +6,7 @@ import { Introduction } from "./components/Sections/Introduction";
 
 export default function Home() {
   return (
-    <div className="w-screen min-h-screen bg-red-500">
+    <div className="w-screen min-h-screen">
       <Header />
 
       <main>

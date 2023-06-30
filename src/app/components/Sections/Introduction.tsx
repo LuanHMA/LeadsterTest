@@ -22,7 +22,7 @@ export function Introduction() {
               alt="Detalhe do título"
               width={30}
               height={32}
-              className="absolute -right-3 top-0 sm:w-[46px]"
+              className="absolute -right-3 top-0 sm:w-[46px] animate-bounce"
             />
             Mais Conversão
           </span>

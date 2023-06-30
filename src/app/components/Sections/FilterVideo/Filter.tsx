@@ -18,7 +18,10 @@ export function Filter() {
   return (
     <Tab.Group>
       <Tab.List className="flex items-center justify-between flex-wrap gap-3 w-full ">
-        <div className="flex items-center gap-3 flex-wrap">
+        <div
+          className="flex items-center gap-3 flex-wrap"
+          data-aos="zoom-in-right"
+        >
           {category.map((title, index) => {
             return (
               <Tab
@@ -33,7 +36,7 @@ export function Filter() {
           })}
         </div>
 
-        <div className="flex items-center gap-x-2">
+        <div className="flex items-center gap-x-2" data-aos="zoom-in-left">
           <span className="text-sm font-semibold text-default-color">
             Ordenar por
           </span>

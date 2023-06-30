@@ -12,14 +12,17 @@ export function DemoArea() {
   return (
     <Section backgroundColor="secundary">
       <div className="w-full max-w-7xl flex flex-col items-center justify-center sm:flex-row sm:gap-x-14 sm:flex-wrap">
-        <div className="max-w-xl">
+        <div className="max-w-xl" data-aos="zoom-in-right">
           <Image
             src={Comparative}
             alt="Comparação da Leadster com outras ferramentas"
           />
         </div>
 
-        <div className="flex flex-col items-start justify-start gap-y-4">
+        <div
+          className="flex flex-col items-start justify-start gap-y-4"
+          data-aos="zoom-in-left"
+        >
           <h2 className="text-default-color font-semibold text-2xl text-left sm:text-4xl">
             Pronto para triplicar sua <br /> <b>Geração de Leads?</b>
           </h2>
