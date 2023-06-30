@@ -21,7 +21,7 @@ export function VideoArea({ selectedCategory }: VideoAreaProps) {
   });
 
   const maxVideosPerPage = 9;
-  const pages = filteredVideos.length / maxVideosPerPage;
+  const pages = Math.ceil(filteredVideos.length / maxVideosPerPage);
   const startIndex = currentPage * maxVideosPerPage;
   const endIndex = startIndex + maxVideosPerPage;
   const currentVideos = filteredVideos.slice(startIndex, endIndex);
@@ -33,6 +33,7 @@ export function VideoArea({ selectedCategory }: VideoAreaProps) {
           if (selectedCategory === data.type) {
             return (
               <VideoCard
+                key={index}
                 id={index}
                 title={data.title}
                 videoDescription={data.videoDescription}

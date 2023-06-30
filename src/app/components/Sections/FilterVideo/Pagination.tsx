@@ -11,6 +11,8 @@ export function Pagination({
   setCurrentPage,
   currentPage,
 }: PaginationProps) {
+  console.log(pageNumber);
+
   return (
     <div className="flex items-center justify-center mt-6 ">
       <span className="text-md font-semibold text-default-color mr-2 sm:text-lg">
