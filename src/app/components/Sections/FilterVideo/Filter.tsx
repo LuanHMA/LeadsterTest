@@ -47,7 +47,7 @@ export function Filter() {
 
       <Line space />
 
-      <Tab.Panels>
+      <Tab.Panels className="w-full">
         <Tab.Panel>
           <VideoArea selectedCategory={0} />
         </Tab.Panel>

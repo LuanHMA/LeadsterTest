@@ -13,7 +13,7 @@ export function Pagination({
 }: PaginationProps) {
   return (
     <div className="flex items-center justify-center mt-6 ">
-      <span className="text-md font-semibold text-default-color sm:text-lg">
+      <span className="text-md font-semibold text-default-color mr-2 sm:text-lg">
         Página{" "}
       </span>
       <div className="flex justify-center">

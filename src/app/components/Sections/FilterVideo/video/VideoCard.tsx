@@ -19,7 +19,7 @@ export function VideoCard({ title, videoDescription, id }: IDataVideo) {
 
   return (
     <div
-      className="flex flex-col shadow-lg rounded-xl overflow-hidden max-w-sm cursor-pointer group"
+      className="flex flex-col shadow-lg rounded-xl overflow-hidden max-w-md cursor-pointer group"
       onClick={openVideoModal}
     >
       <div className="relative">
